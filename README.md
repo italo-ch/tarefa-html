@@ -18,16 +18,19 @@ git push origin main
 
 ## Organização das pastas
 
-📂 images/ # Pasta com as imagens de cada membro
-├── caio-soares.jpg 
-├── italo-chiaradia.jpg
-├── italo-ferreira.jpg
-📂 src 
-├── 📂 members/ # Pasta com informações dos membros da equipe 
-│ ├── 📂 contacts/ # Páginas individuais de contato 
-│ │ ├── caio-soares.html 
-| | ├── italo-chiaradia.html  
-│ | ├── italo-ferreira.html 
-| 
-├── index.html # Página principal do site 
-├── README.md # Documentação do projeto
+```  
+📂 images/            # Pasta com as imagens de cada membro  
+│── caio-soares.jpg  
+│── italo-chiaradia.jpg  
+│── italo-ferreira.jpg  
+
+📂 src/               # Código-fonte do projeto  
+│── 📂 members/       # Pasta com informações dos membros da equipe  
+│   │── 📂 contacts/  # Páginas individuais de contato  
+│   │   │── caio-soares.html  
+│   │   │── italo-chiaradia.html  
+│   │   │── italo-ferreira.html  
+
+│── index.html        # Página principal do site  
+│── README.md         # Documentação do projeto  
+```  
