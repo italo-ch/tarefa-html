@@ -1,20 +1,22 @@
-## Instalação
+# Tarefa HTML | IN Junior 🐺
 
-1. Clone o repositório:
+A tarefa consiste na criação de um site em equipe utilizando apenas HTML. O projeto inclui uma página inicial, uma página individual para cada membro da equipe e uma página de contato exclusiva para cada integrante.
+
+## Rodando localmente
+
+1. Clone o projeto
+
 ```bash
-git clone https://github.com/italo-ch/tarefa-html
+  git clone https://github.com/italo-ch/tarefa-html
 ```
-2. Faça as modificações necessárias
-3. Envie as alterações para o repositório remoto:
+
+2. Entre no diretório do projeto
+
 ```bash
-git push origin main
+  cd tarefa-html
 ```
 
-## Como rodar localmente
-
-- Faz o download do plugin live-server (se estiver usando vscode)
-- clica com botão direito do mouse no index.html da pasta src
-- Selecione 'Open with live server'
+3. Abra no navegador
 
 ## Organização das pastas
 
@@ -34,3 +36,13 @@ git push origin main
 │── index.html        # Página principal do site  
 │── README.md         # Documentação do projeto  
 ```  
+
+## Acesso ao projeto
+[https://tarefa-html.netlify.app/](https://tarefa-html.netlify.app/)
+
+## Autores
+
+- [Caio Soares](https://github.com/caiodovalesoares)
+- [Italo Chiaradia](https://github.com/italo-ch)
+- [Ítalo Ferreira](https://github.com/Rarkunho)
+
